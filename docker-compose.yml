@@ -1,5 +1,4 @@
 # Webhook test - June 2026
-
 version: "3.3"
 
 services:
